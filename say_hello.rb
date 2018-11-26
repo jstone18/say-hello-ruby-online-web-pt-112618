@@ -1,3 +1,3 @@
-def say_hello(name, language = "Ruby Programmer")
+def say_hello(name)
 
 end
